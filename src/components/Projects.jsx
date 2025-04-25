@@ -12,7 +12,7 @@ const projects = [
     title: "Gestor de Tareas",
     description: "App web tipo To-Do con filtros, prioridad y guardado local.",
     technologies: ["React", "Vite", "LocalStorage"],
-    link: "#",
+    link: "https://gestor-de-tareas-mu.vercel.app/",
   },
   {
     title: "Landing de Agencia Creativa",
