@@ -6,7 +6,7 @@ const projects = [
     description:
       "Aplicación de control financiero personal con autenticación, gráficas y gestión de gastos.",
     technologies: ["React", "TailwindCSS", "Vite"],
-    link: "#",
+    link: "https://wallet-app-eosin.vercel.app/",
   },
   {
     title: "Gestor de Tareas",
